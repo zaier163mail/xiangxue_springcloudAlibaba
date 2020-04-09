@@ -1,6 +1,6 @@
 spring:
   rabbitmq:
-    addresses: localhostfdsf
+    addresses: localhost
     username: guest
     password: guest
     port: 5672
